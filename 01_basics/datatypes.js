@@ -16,6 +16,7 @@ boolean => True/False
 string => ""
 null => Standalone Value
 undefined => declared with a value.
+symbol => unique
 */
 
 console.log(typeof age);
